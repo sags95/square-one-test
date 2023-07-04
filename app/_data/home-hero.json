@@ -1,0 +1,36 @@
+{
+  "hero_images": [
+    {
+      "alt_text": "three-men-walking",
+      "src": "/img/heros/three-men.jpeg",
+      "title": "NEW COLLECTION",
+      "collection": "MEN CASUAL",
+      "slug": "men",
+      "category": "Men"
+    },
+    {
+      "alt_text": "women-informal",
+      "src": "/img/heros/women-informal.jpg",
+      "title": "NEW COLLECTION",
+      "collection": "WOMEN CASUAL",
+      "slug": "women",
+      "category": "Women"
+    },
+    {
+      "alt_text": "men-informal",
+      "src": "/img/heros/men-clothing.jpeg",
+      "title": "NEW COLLECTION",
+      "collection": "MEN FASHION",
+      "slug": "men",
+      "category": "Men"
+    },
+    {
+      "alt_text": "women",
+      "src": "/img/heros/women-clothes.jpeg",
+      "title": "NEW COLLECTION",
+      "collection": "WOMEN FASHION",
+      "slug": "women",
+      "category": "Women"
+    }
+  ]
+}

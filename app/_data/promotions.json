@@ -1,0 +1,9 @@
+{
+  "promotions": [
+    {
+      "name": "Stay tuned!",
+      "description": "Don't miss our next promotion",
+      "image": { "src": "/img/promotions-default.png", "alt": "Stay tuned for our next promotion!" }
+    }
+  ]
+}
